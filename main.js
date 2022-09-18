@@ -28,7 +28,7 @@ scene.add(hemisphereLight);
 
 const lightHelper = new THREE.HemisphereLightHelper(hemisphereLight, 5);
 
-scene.add(lightHelper);
+//scene.add(lightHelper);
 
 //ambient light
 
